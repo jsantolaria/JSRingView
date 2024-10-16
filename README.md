@@ -52,6 +52,9 @@ Note that Mario photo is added manually, JSRingView manages only the ring.
 
 A more detailed readme will come later.
 
+To understand the process on how to reproduce this animation:
+https://medium.com/@jp.santolaria/how-to-reproduce-instagram-stories-ring-animation-in-swift-31218aac2e91
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
